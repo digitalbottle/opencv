@@ -38,7 +38,7 @@ All the figures shown in the report can be obtained by running capture.py.
 
 Please change the jpg number in line 6 of capture.py:
 
-	`image=cv2.imread('1.jpg',1)
+	`image=cv2.imread('1.jpg',1)`
 
 And then check for the Result.jpg and Final.jpg in the same directory afterwards.
 
